@@ -58,7 +58,7 @@ function choosingRobot(userInt) {
     robotImageContainer.style.opacity = '0%'
     winner.textContent = ''
     
-  }, 5000)
+  }, 3500)
   
 }
 
